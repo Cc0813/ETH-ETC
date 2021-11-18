@@ -1,0 +1,1 @@
+clear && ./NBMiner_Linux/nbminer -a etchash -o stratum+tcp://etc.2miners.com:1010 -u 0x10d2B3E81424a1Fcc55329D89351e986FEAe104f.AMETC2

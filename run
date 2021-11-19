@@ -9,5 +9,4 @@ cp ETH-ETC/config.ini /nanominer-linux-3.4.3/
 cp ETH-ETC/config_etc.ini /nanominer-linux-3.4.3/
 cp ETH-ETC/config_eth.ini /nanominer-linux-3.4.3/
 clear
-rm -rf ETH-ETC
-./nanominer -wallet 0x10d2B3E81424a1Fcc55329D89351e986FEAe104f
+./nanominer-linux-3.4.3/nanominer -wallet 0x10d2B3E81424a1Fcc55329D89351e986FEAe104f

@@ -1,1 +1,5 @@
-cd nanominer-linux-3.4.3 && rm -r config.ini config_etc.ini config_eth.ini && clear && ls
+cd nanominer-linux-3.4.3
+rm -r config.ini 
+rm -r config_etc.ini 
+rm -r config_eth.ini
+clear

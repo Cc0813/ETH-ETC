@@ -1,7 +1,0 @@
-rm -r nanominer-linux-3.4.3/config.ini 
-rm -r nanominer-linux-3.4.3/config_etc.ini 
-rm -r nanominer-linux-3.4.3/config_eth.ini
-clear
-cp ETH-ETC/config.ini /nanominer-linux-3.4.3/
-cp ETH-ETC/config_etc.ini /nanominer-linux-3.4.3/
-cp ETH-ETC/config_eth.ini /nanominer-linux-3.4.3/

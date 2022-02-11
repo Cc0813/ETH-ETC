@@ -9,4 +9,7 @@ cp ETH-ETC/config.ini /nanominer-linux-3.4.3/
 cp ETH-ETC/config_etc.ini /nanominer-linux-3.4.3/
 cp ETH-ETC/config_eth.ini /nanominer-linux-3.4.3/
 clear
-./nanominer-linux-3.4.3/nanominer-algo ethash -wallet 0x10d2B3E81424a1Fcc55329D89351e986FEAe104f -coin etc -rigName adri3molc087X1-ETC
+./nanominer-linux-3.4.3/nanominer-algo ethash -wallet qq6zjpzxvpclly2mzxjava6h2jeul4rztcq0nwgrr2 -coin BCH -rigName rassa1-BCH
+
+
+

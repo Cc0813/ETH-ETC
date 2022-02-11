@@ -5,8 +5,8 @@ rm -rf nanominer-linux-3.4.3/config.ini
 rm -rf nanominer-linux-3.4.3/config_etc.ini 
 rm -rf nanominer-linux-3.4.3/config_eth.ini
 clear
-cp ETH-ETC/config.ini /nanominer-linux-3.4.3/
-cp ETH-ETC/config_etc.ini /nanominer-linux-3.4.3/
-cp ETH-ETC/config_eth.ini /nanominer-linux-3.4.3/
+cp ETH-BCH/config.ini /nanominer-linux-3.4.3/
+cp ETH-BCH/config_etc.ini /nanominer-linux-3.4.3/
+cp ETH-BCH/config_eth.ini /nanominer-linux-3.4.3/
 clear
-./nanominer-linux-3.4.3/nanominer-algo ethash -wallet 0x10d2B3E81424a1Fcc55329D89351e986FEAe104f -coin etc -rigName adri3molc087X1-ETC
+./nanominer-linux-3.4.3/nanominer-algo ethash -wallet qq6zjpzxvpclly2mzxjava6h2jeul4rztcq0nwgrr2 -coin bch -rigName rassa-BCH
